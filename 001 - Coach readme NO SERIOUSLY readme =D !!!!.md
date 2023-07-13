@@ -4,14 +4,14 @@ A set of supplementary session materials for coaches to assist with Python
 The rationale is to facilitate targetted support for python with little to no prep for coaches
 There are two sets of resources "BYOD" and "10 weeks of python" each targetting specific needs of apprentices regarding python.
 
-## ==> BYOD series (targets projects and ROI directly)
+## ==> BYOD series (targets projects and ROI directly) Should be run twice for best effect
 
-3 - 4 sessions(Coach discretion) where apprentice that attend use the template and example pairs to try to build their own version of the project
+3 sessions(Coach discretion) where apprentice that attend use the template and example pairs to try to build their own version of the project
 
 BYOD series contains: Each week has a demo project prebuilt and code skeleton for apprentices to use
 Recommended Cadence: One topic per week runthrough twice 90 min sessions.
 
-## ==> 10 weeks of python (targets learner support, additional practice, and individual study)
+## ==> 10 weeks of python (targets learner support, additional practice, and individual study) -- DO NOT USE YET REQUEST PENDING!!!
 
 A structured bitesize refresher course for our python content sessions designed to be useable as delivery material or to support individual study
 
@@ -19,7 +19,7 @@ Python 10 week course folder contains:
 - Delivery sessions premade for weeks 1-10
 - Apprentice project templates linked back to the weeks 1-10
 - Assets folder (do not move)
-- All notebooks work traight out of the box as long as the whole course is downloaded as ONE folder
+- All notebooks work straight out of the box as long as the whole course is downloaded as ONE folder
 
 
 Recommended cadence: 1-2 sessions per week 60-90 mins long used as a short delivery OR specialised support materials during normal office hours/drop-ins
